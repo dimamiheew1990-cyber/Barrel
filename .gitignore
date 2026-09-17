@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+.jdks/
+.tmp/
+# Generated locally with `gradle wrapper`; intentionally not committed because
+# the PR system accepts source text only.
+gradle/wrapper/
